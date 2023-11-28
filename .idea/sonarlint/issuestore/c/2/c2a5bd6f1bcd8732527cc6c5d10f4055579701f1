@@ -1,0 +1,27 @@
+
+q
+java:S1104"UMake REGION_Id a static final constant or non-public and provide accessors if needed.(¹¼å8äµÒ¤Á1
+u
+java:S1104"YMake ACCESS_KEY_ID a static final constant or non-public and provide accessors if needed.(§³·d8äµÒ¤Á1
+u
+java:S1104"SMake SECRECT a static final constant or non-public and provide accessors if needed.(‡•¸ºþÿÿÿÿ8äµÒ¤Á1
+K
+java:S1444"/Make this "public static REGION_Id" field final(¹¼å8äµÒ¤Á1
+O
+java:S1444"3Make this "public static ACCESS_KEY_ID" field final(§³·d8äµÒ¤Á1
+O
+java:S1444"-Make this "public static SECRECT" field final(‡•¸ºþÿÿÿÿ8äµÒ¤Á1
+p
+java:S3008"TRename this field "REGION_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¼å8åµÒ¤Á1
+t
+java:S3008"XRename this field "ACCESS_KEY_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§³·d8åµÒ¤Á1
+t
+java:S3008"RRename this field "SECRECT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡•¸ºþÿÿÿÿ8åµÒ¤Á1
+O
+java:S1135"2Complete the task associated to this TODO comment.(¬‡úç8çµÒ¤Á1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(³§Ü…úÿÿÿÿ8éµÒ¤Á1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ÀÄû¢ùÿÿÿÿ8éµÒ¤Á1
+S
+java:S2696 "6Make the enclosing method "static" or remove this set.(ÁºØ™8éµÒ¤Á1

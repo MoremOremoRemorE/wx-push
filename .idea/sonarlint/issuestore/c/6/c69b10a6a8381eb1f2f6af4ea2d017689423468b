@@ -1,0 +1,22 @@
+
+b	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(şß¬Ø8ö¿à™‹1
+m	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÔ™¥8÷¿à™‹1
+r	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¿Â‹şÿÿÿÿ8÷¿à™‹1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8½´Ò¤Á1
+O
+java:S1135"2Complete the task associated to this TODO comment.(Üğ£Å8ƒÀà™‹1
+b
+java:S3252,"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(à¶ä–8„Àà™‹1
+b
+java:S32520"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(à¶ä–8…Àà™‹1
+=
+java:S3864]"!Remove this use of "Stream.peek".(§ú€8‰Àà™‹1
+g
+java:S3252\"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(—ëŠüÿÿÿÿ8ŠÀà™‹1
+b
+java:S3252n"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(à¶ä–8‹Àà™‹1
+]
+java:S1128";Remove this unused import 'com.alibaba.fastjson.JSONArray'.(ÿÀâ³ùÿÿÿÿ8ŒÀà™‹1
+R
+java:S1144p"5Remove this unused private "hasTextOrDefault" method.(ıÌÀ£8ŒÀà™‹1

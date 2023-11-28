@@ -1,0 +1,37 @@
+
+g	java:S112k"FDefine and throw a dedicated exception instead of using a generic one.(Â‘ˆıúÿÿÿÿ8ëùˆù¤1
+L
+java:S3740@"/Provide the parametrized type for this generic.(•ÉÛÜ8ìùˆù¤1
+r	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹õÓôùÿÿÿÿ8íùˆù¤1
+l	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¨´F8íùˆù¤1
+r	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ü–‡ùÿÿÿÿ8íùˆù¤1
+m	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êâ×8íùˆù¤1
+m	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¾×³8íùˆù¤1
+r	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£èƒ‚üÿÿÿÿ8íùˆù¤1
+n	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÀ×ÿ8íùˆù¤1
+Š
+java:S1488£"gImmediately return this expression instead of assigning it to the temporary variable "togetherDateObj".(äòÖ‡ûÿÿÿÿ8îùˆù¤1
+S
+java:S26293"7Use the built-in formatting to construct this argument.(õÿÈh8ñùˆù¤1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8áã°¤Á1
+_
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ8áã°¤Á1
+_
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ8áã°¤Á1
+_
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ8âã°¤Á1
+O
+java:S1135"2Complete the task associated to this TODO comment.(Üğ£Å8“úˆù¤1
+g
+java:S32522"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(ùƒôãûÿÿÿÿ8•úˆù¤1
+]
+java:S34573"AFormat specifiers should be used instead of string concatenation.(õÿÈh8•úˆù¤1
+]	java:S125q"<This block of commented-out lines of code should be removed.(ñ´Ñíûÿÿÿÿ8úˆù¤1
+^	java:S125"<This block of commented-out lines of code should be removed.(äúªãüÿÿÿÿ8úˆù¤1
+c
+java:S3252’"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(áÀ×ÿ8Ÿúˆù¤1
+d
+java:S3457¡"AFormat specifiers should be used instead of string concatenation.(üô‘ëıÿÿÿÿ8¢úˆù¤1
+d
+java:S3457´"AFormat specifiers should be used instead of string concatenation.(üô‘ëıÿÿÿÿ8¤úˆù¤1

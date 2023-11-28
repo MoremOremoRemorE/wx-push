@@ -1,0 +1,9 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±ÛÆ¼ýÿÿÿÿ8ù¢ˆù¤1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8‡è«¤Á1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8‡è«¤Á1
+ˆ
+java:S1130*"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Ä·ûV8¨è«¤Á1
+X	java:S125."<This block of commented-out lines of code should be removed.(Ò½­ú8ƒ£ˆù¤1

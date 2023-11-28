@@ -1,0 +1,38 @@
+#去申请 https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
+wx:
+  config:
+    appId: "wx42965ee50e816cb5"
+    appSecret: "f0a7ed119eba2b04af6490c29c99eb88"
+    #模板Id
+    templateId: "Io7IDA-e87HDcrBEYVyoBvH6xB0m-5BpvFAb_USrbd0"
+    openidList:
+      - "o-WZ75o2reMQJdR8XCW-qdIbAK1g"
+      - "o-WZ75qdH38JZcos6YoqIdwbMVII"
+
+message:
+  config:
+    birthday1: "02-18"
+    togetherDate: "2021-01-23"
+    message: "Have a happy day and love you"
+
+#去申请 https://tianqiapi.com/user/login
+weather:
+  config:
+    appid: "42714311"
+    appSecret: "kEOT7dF6"
+    city: "南京"
+#注册并购买第二档次，有券，直接白嫖 https://www.apispace.com/eolink/api/myjj/introduction
+ApiSpace:
+  token: ""
+
+chap:
+  key: "2bb7d3d3c838ff4735373003544d0020"
+
+server:
+  port: 8081
+aliyun:
+  sms:
+    regionId: default
+    accessKeyId: LTAI5tFeQunZM23MFdMSVmp4  #阿里云accessKeyId
+    secret: som6DdSQ6QVIY0BzgV79jMQVVVrpmB #阿里云secret
+
